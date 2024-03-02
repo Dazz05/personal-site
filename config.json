@@ -1,17 +1,17 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "Austin Chia",
-  "ascii": "BING XUAN",
+  "title": "BING XUAN",
+  "name": "Bing Xuan",
+  "ascii": "BINGXUAN",
   "social": {
     "github": "github",
-    "linkedin": "linkedin",
+    "linkedin": "linkedin"
   },
   "email": "austin.bx159@gmail.com",
-  "ps1_hostname": "austin",
+  "ps1_hostname": "admin",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://github.com/Dazz05/personal-site",
+  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
