@@ -16,15 +16,15 @@
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
   },
-  "Mocha": {
+ "Monokai": {
     "light": {
-      "background": "#D0C8C6",
-      "foreground": "#3B3228",
-      "yellow": "#F4BC87",
-      "green": "#BEB55B",
-      "gray": "#A89BB9",
-      "blue": "#8AB3B5",
-      "red": "#CB6077"
+      "background": "#F8F8F2",
+      "foreground": "#272822",
+      "yellow": "#F4BF75",
+      "green": "#A6E22E",
+      "gray": "#AE81FF",
+      "blue": "#66D9EF",
+      "red": "#F92672"
     },
     "dark": {
       "background": "#3B3228",
